@@ -1,0 +1,28 @@
+/* comment header */
+
+/*main margin*/
+main {
+    margin: 10px;
+}
+/*padding for headers*/
+h2 {
+    padding: 10px;
+}
+/*padding for paragraphs*/
+p {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+/*body width*/
+body {
+    width: 750px;
+}
+/*list padding*/
+ol {
+    padding: 10px
+}
+/*image border*/
+header {
+    border: round 10px blue;
+    position: center;
+}
